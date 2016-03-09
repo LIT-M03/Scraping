@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication135", "ConsoleApplication135\ConsoleApplication135.csproj", "{212D843B-EC2C-490F-AB32-BB5FD8F7B422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{6ABCD68E-CBD1-473D-AAA2-EE435436DE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakewoodScoop", "LakewoodScoop\LakewoodScoop.csproj", "{FE745475-9B9E-47D4-99F9-418BBAC04AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212D843B-EC2C-490F-AB32-BB5FD8F7B422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212D843B-EC2C-490F-AB32-BB5FD8F7B422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212D843B-EC2C-490F-AB32-BB5FD8F7B422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212D843B-EC2C-490F-AB32-BB5FD8F7B422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABCD68E-CBD1-473D-AAA2-EE435436DE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABCD68E-CBD1-473D-AAA2-EE435436DE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABCD68E-CBD1-473D-AAA2-EE435436DE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABCD68E-CBD1-473D-AAA2-EE435436DE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE745475-9B9E-47D4-99F9-418BBAC04AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE745475-9B9E-47D4-99F9-418BBAC04AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE745475-9B9E-47D4-99F9-418BBAC04AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE745475-9B9E-47D4-99F9-418BBAC04AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

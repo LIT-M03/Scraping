@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MvcApplication1.Controllers.GithubTrendingRepo>
+
+<table class="table table-row table-striped table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Blurb</th>
+        <th>Language</th>
+    </tr>
+
+    @foreach (var repo in Model)
+    {
+        <tr>
+            <td>
+                <a href="http://www.github.com@(repo.Url)">
+                    @repo.Name
+                </a>
+            </td>
+            <td>
+                @repo.Blurb
+            </td>
+            <td>
+                @repo.Language
+            </td>
+        </tr>
+    }
+
+</table>
